@@ -1,1 +1,1 @@
-# avito_tech_test
+# Код находится в ветке master. Запустить можно в PyCharm
